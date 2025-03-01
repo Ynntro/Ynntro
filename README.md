@@ -12,4 +12,4 @@ I guess I could say that I am learning something new everyday, but procrastinati
 * Perhaps make a portfolio website
 
 ## What you can except from me on GitHub:
-I made a an account here to be able to keep learning in class and at home without taking a USB key with all my files
+I made an account here to be able to keep learning in class and at home without having to take a USB key with all my files everywhere with me lol. So I will mostly just upload random learning stuff and sometimes some actual projects (such as Discord bots, for example).
